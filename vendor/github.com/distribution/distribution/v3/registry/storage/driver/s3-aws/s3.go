@@ -556,9 +556,7 @@ func New(params DriverParameters) (*Driver, error) {
 	awsConfig.WithS3UseAccelerate(params.Accelerate)
 	awsConfig.WithRegion(params.Region)
 	awsConfig.WithDisableSSL(!params.Secure)
-	if params.UseDualStack {
-		awsConfig.UseDualStackEndpoint = endpoints.DualStackEndpointStateEnabled
-	}
+	awsConfig.WithUseDualStack(params.UseDualStack)
 
 	if params.SkipVerify {
 		httpTransport := &http.Transport{

@@ -119,6 +119,8 @@ github.com/evanphx/json-patch v4.12.0+incompatible/go.mod h1:50XU6AFN0ol/bzJsmQL
 github.com/felixge/httpsnoop v1.0.1/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
 github.com/felixge/httpsnoop v1.0.3 h1:s/nj+GCswXYzN5v2DpNMuMQYe+0DDwt5WVCU6CWBdXk=
 github.com/felixge/httpsnoop v1.0.3/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
+github.com/flavianmissi/docker-distribution/v3 v3.0.0-20230619095621-3e09e8df320c h1:Axk/mbGqh6LN4gdqmavy2xDRGUqE/9NE2ajxbKX1xKM=
+github.com/flavianmissi/docker-distribution/v3 v3.0.0-20230619095621-3e09e8df320c/go.mod h1:+fqBJ4vPYo4Uu1ZE4d+bUtTLRXfdSL3NvCZIZ9GHv58=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20191125211704-12ad95a8df72/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200222043503-6f7a984d4dc4/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
@@ -300,8 +302,6 @@ github.com/openshift/api v0.0.0-20230503133300-8bbcb7ca7183 h1:t/CahSnpqY46sQR01
 github.com/openshift/api v0.0.0-20230503133300-8bbcb7ca7183/go.mod h1:4VWG+W22wrB4HfBL88P40DxLEpSOaiBVxUnfalfJo9k=
 github.com/openshift/client-go v0.0.0-20230503144108-75015d2347cb h1:Nij5OnaECrkmcRQMAE9LMbQXPo95aqFnf+12B7SyFVI=
 github.com/openshift/client-go v0.0.0-20230503144108-75015d2347cb/go.mod h1:Rhb3moCqeiTuGHAbXBOlwPubUMlOZEkrEWTRjIF3jzs=
-github.com/openshift/docker-distribution/v3 v3.0.0-20230613095533-f65dc997445a h1:Ysxjnmqr80Q9ZDEJrEAthXQJmRscb0vZCm9/WTRQ+Dk=
-github.com/openshift/docker-distribution/v3 v3.0.0-20230613095533-f65dc997445a/go.mod h1:+fqBJ4vPYo4Uu1ZE4d+bUtTLRXfdSL3NvCZIZ9GHv58=
 github.com/openshift/library-go v0.0.0-20230613090251-444734850f78 h1:UIrZVE9n26ueuC6TnOB5Ehk0RPeeQFCWnQTu7vgHN0k=
 github.com/openshift/library-go v0.0.0-20230613090251-444734850f78/go.mod h1:mHz+1sT3CSTZWmKdb3ZpN6EjiBr/KCXS6VaPOC+ILco=
 github.com/pborman/uuid v1.2.1 h1:+ZZIw58t/ozdjRaXh/3awHfmWRbzYxJoAdNJxe/3pvw=
